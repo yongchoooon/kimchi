@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 
 # Run
-## dataset_name
+## Dataset name
 - 한국적 이미지(Korean Images): 'yonggeun/korean-image-caption-dataset'
 - 한국 랜드마크 이미지(Korean Landmark Images): 'yonggeun/korean-landmark-image-caption-dataset'
 - 한국 유적지 이미지(Korean Historical Site Images): 'yonggeun/korean-historical-building-image-caption-dataset'
