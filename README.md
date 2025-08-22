@@ -43,3 +43,10 @@ python inference.py
 <div align="center">
     <img width="80%" alt="Inference Examples" src="figs/fig.jpg">
 </div>
+
+# Awards
+🏆 **2025 한국CDE학회 동계학술대회 우수발표상 수상**
+- 본 연구는 2025년 한국CDE학회 동계학술대회에서 우수발표상을 수상하였습니다.
+
+**관련 링크:**
+[한국CDE학회 논문 페이지](https://www.cde.or.kr/html/?pmode=BBBS0033900001&page=1&smode=view&seq=3968&searchValue=&schLimit=10&schCategory=&searchTitle=searchAll#:~:text=%C2%A0KIMCHI%3A%20%ED%95%9C%EA%B5%AD%EC%9D%98%20%EB%AC%B8%ED%99%94%EC%99%80%20%EC%97%AD%EC%82%AC%EB%A5%BC%20%EB%B0%98%EC%98%81%ED%95%9C%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1%20%EB%AA%A8%EB%8D%B8)
